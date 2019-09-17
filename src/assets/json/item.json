@@ -1,0 +1,14 @@
+[
+    {
+        "imageName": "Angular Logo",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png"
+    },
+    {
+        "imageName": "Angular Meta Data",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Architecture_of_an_Angular_2_application.png"
+    },
+    {
+        "imageName": "Node Data",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1024px-Node.js_logo.svg.png"
+    }
+]

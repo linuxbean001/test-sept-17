@@ -1,0 +1,8 @@
+<div class="row d-flex justify-content-center">
+  <ul class="list-item custom-list">
+    <li class="list-inline-item" *ngFor="let data of imageData">
+      <img [src]="sanitizer.bypassSecurityTrustResourceUrl(data.imageUrl)" height="150" width="150" alt="No Image Found"
+        class="img-custom" />
+    </li>
+  </ul>
+</div>
